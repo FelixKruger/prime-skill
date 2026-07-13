@@ -105,6 +105,14 @@ Prime is a framework, not a prescription. Customize it:
 - No verifier, no confident "done."
 - Never escalate from review to build, or from one-off to autonomous run, without a fresh explicit go-ahead.
 
+## Try it, break it, make it better
+
+Don't take anyone's word for it — install it, run it on your next real task, and see what happens. If it changes your workflow the way it changed theirs, great. If it doesn't, that's useful too.
+
+**Share what happened.** Open an [issue](https://github.com/FelixKruger/prime-skill/issues) or start a [discussion](https://github.com/FelixKruger/prime-skill/discussions) — what worked, what didn't, what you changed. The best improvements to Prime have come from real people hitting real problems with it. A skill like this gets better every time someone runs it on a task shape the original author never imagined.
+
+Pull requests welcome — especially router patterns for skill ecosystems different from mine, trigger phrases that catch real intent better, or refinements to the Meditate step from domains where I have no expertise.
+
 ## License
 
 MIT. Attribution appreciated, not required.

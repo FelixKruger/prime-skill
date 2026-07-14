@@ -4,13 +4,10 @@ A skill for [Claude Code](https://claude.com/claude-code) that changes how AI ag
 
 ## What people are saying
 
-> "This saved me literally three months of work. I had a plan for a project that was going to take that long — and with Prime, it got it right on the first try. The difference was that the AI actually understood what I was building before it started coding."
-> — _Engineer, early adopter_
-
 > "This skill let me push Frontier models beyond the usual limits. For the first time it felt like a senior co-worker rather than an agent I was prompting. It felt like sending off a team lead to solve what I set it out to do rather than having to check back every few minutes."
 > — _[Andreas Wissel](https://linkedin.com/in/andreaswissel), CTO @ Willidrop_
 
-These aren't cherry-picked marketing quotes. These are people who installed a single file and watched the way their AI agent works fundamentally change.
+One file. One install. A fundamentally different way of working with AI agents.
 
 ## Why it matters
 
